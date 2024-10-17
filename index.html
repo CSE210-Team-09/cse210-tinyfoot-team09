@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Custom Footnote Example</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <p>
+    This is a simple sentence with a footnote
+    <sup class="footnote-ref" data-footnote="1">1</sup>
+    that shows on hover or click. Here's another footnote
+    <sup class="footnote-ref" data-footnote="2">2</sup>.
+  </p>
+
+  <!-- Footnotes Container -->
+  <div class="footnotes">
+    <div class="footnote" id="footnote-1">
+      <p>This is the first footnote content. It will appear as a popover.</p>
+    </div>
+    <div class="footnote" id="footnote-2">
+      <p>This is the second footnote content. You can add any text here.</p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
