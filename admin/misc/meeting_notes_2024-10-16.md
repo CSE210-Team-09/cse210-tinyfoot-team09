@@ -38,4 +38,4 @@
 
 ## Planned meetings
 
-- Wednesday 18th Oct 10AM Online
+- Friday 18th Oct 10AM Online
