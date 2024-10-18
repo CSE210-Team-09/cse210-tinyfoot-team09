@@ -1,0 +1,27 @@
+/* Style the footnote reference */
+.footnote-ref {
+    position: relative;
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+  }
+  
+  /* Hide the footnote content initially */
+  .footnote-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 5px;
+    width: 200px;
+    top: 1.5em; /* Position the tooltip just below the reference */
+    left: 0;
+    z-index: 10;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Show the footnote content when hovering over the reference */
+  .footnote-ref:hover .footnote-content {
+    display: block;
+  }
+  
