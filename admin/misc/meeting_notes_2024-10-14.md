@@ -35,6 +35,7 @@
 ## Warmup Timeline
 
 - Finish initial draft of code review (Littlefoot and Bigfoot): 16th Oct
+- Finish tinyfoot: 18th Oct
 
 ## Planned meetings
 
