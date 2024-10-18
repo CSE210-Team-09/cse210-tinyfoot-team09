@@ -18,8 +18,8 @@
 ## Agenda
 
 - Assigning team roles
-- Role descriptions: 
-
+- Role descriptions for Planner: organize, plan and drive meetings and assign task to team members.
+- Role description for Designer: designing user interface(UI/UX).
 ## Completed Tasks
 
 - Assigned Co-lead role: Jayanth Gorantla (JG) - volunteered
