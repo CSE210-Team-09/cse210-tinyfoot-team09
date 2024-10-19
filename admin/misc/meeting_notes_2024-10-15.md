@@ -1,6 +1,6 @@
-# Team Meeting Notes - Warmup exercise updates with TA
+# Team Meeting Notes - Warmup Exercise Updates with TA
 
-**Date: 10.15.2024**\
+**Date: Tuesday 10.15.2024**\
 **Time: 3:05 pm - 3:30 pm**\
 **Meeting Format: Online (Zoom)**
 
@@ -23,8 +23,8 @@
 
 - Discussed warmup exercise expectations
 - Raised concerns on lower team size
-- Role description for Planner: organize, plan and drive meetings and assign task to team members.
-- Role description for Designer: designing user interface(UI/UX).
+- Role description for Planner: organize, plan and drive meetings and assign task to team members
+- Role description for Designer: designing user interface(UI/UX)
 
 ## Tasks to be completed
 

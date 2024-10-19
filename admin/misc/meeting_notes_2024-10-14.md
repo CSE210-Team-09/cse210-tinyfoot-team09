@@ -1,8 +1,8 @@
-# Team Meeting Notes - Warmup exercise planning
+# Team Meeting Notes - Warmup Exercise Planning
 
-**Date: 10.14.2024**\
+**Date: Monday 10.14.2024**\
 **Time: 11:00 am - 12:30 pm**\
-**Meeting Format: In-person (CSE 1st floor Lobby)**
+**Meeting Format: In-person (CSE 1st Floor Lobby)**
 
 ## Attendance
 

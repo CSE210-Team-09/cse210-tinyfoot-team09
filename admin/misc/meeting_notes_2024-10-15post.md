@@ -1,25 +1,25 @@
-# Team Meeting Notes - Role assignment after class
+# Team Meeting Notes - Role Assignment After Class
 
-**Date: 10.15.2024**\
+**Date: Tuesday 10.15.2024**\
 **Time: 6:20 pm - 6:30 pm**\
 **Meeting Format: In-Person (CENTR 115)**
 
 ## Attendance
 
-- [ ] Cora Coleman (TA)
 - [x] Niyas Attasseri (NA)
 - [x] Anna Niu (AN)
 - [x] Krishna Ponnaganti (KP)
 - [x] Juhak Lee (JL)
-- [X] Brandon Olmos (BO)
+- [x] Brandon Olmos (BO)
 - [x] Jayanth Gorantla (JG)
 - [x] Lucas Lee (LL)
 
 ## Agenda
 
 - Assigning team roles
-- Role descriptions for Planner: organize, plan and drive meetings and assign task to team members.
-- Role description for Designer: designing user interface(UI/UX).
+- Role descriptions for Planner: organize, plan and drive meetings and assign task to team members
+- Role description for Designer: designing user interface(UI/UX)
+
 ## Completed Tasks
 
 - Assigned Co-lead role: Jayanth Gorantla (JG) - volunteered
@@ -30,7 +30,7 @@
 
 - Finish initial draft of code review (Littlefoot and Bigfoot): 16th Oct
 - Share code review document with TA for review: 16th Oct
-- Finish tinyfoot: 18th Oct
+- Finish Tinyfoot: 18th Oct
 
 ## Planned meetings
 
