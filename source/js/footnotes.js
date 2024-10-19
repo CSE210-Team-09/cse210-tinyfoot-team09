@@ -8,20 +8,17 @@ document.addEventListener('DOMContentLoaded', () => {
         const popup = document.createElement('span');
         popup.className = 'footnote-popup';
         popup.innerHTML = footnoteContent;
-        popup.style.cssText = `
-            display: none;
-            position: absolute;
-            background: white;
-            border: 1px solid #333;
-            padding: 10px;
-            max-width: 300px;
-            box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
-        `;
 
+        // Add popup to the sup tag
         footnote.parentNode.appendChild(popup);
+
 
         footnote.addEventListener('mouseover', () => {
             popup.style.display = 'block';
+            // Adjust vertical position to be below the footnote
+            const footnoteRect = footnote.getBoundingClientRect();
+            const popupRect = popup.getBoundingClientRect();
+            popup.style.left = `${(footnoteRect.width / 2) - (popupRect.width / 2)}px`;
         });
 
         footnote.addEventListener('mouseout', () => {
@@ -29,5 +26,3 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
-
-console.log('hello world');
