@@ -61,3 +61,5 @@ The README contains useful information, but the usage section with Yarn and NPM 
 In regards to the code, the files should be thoroughly documented, with file headers and inline comments to specify what each file and module does. That way, developers trying to understand how Littlefoot works will have an easier time following the code from beginning to end.
 
 If possible, an installation process should be added for PNPM. While having a single installation process is sufficient, PNPM is a popular package manager and some developers prefer it over Yarn and NPM due to its disk space efficiency. Having an installation process for PNPM users would increase the library’s accessibility as an open-source package.
+
+We would replace TypeScript with regular JavaScript. Instead of having TypeScript convert the code into JavaScript, we could directly code the JavaScript. We would lose the type safety advantage of TypeScript, but there will be more control about the JavaScript code in the library, which would avoid the issue of the TypeScript code generating inefficient JavaScript code, and make it more readable for later use.
