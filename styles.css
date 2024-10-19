@@ -1,0 +1,27 @@
+[id^="tiny"] {
+  padding: 2px 10px 1px 15px;
+  background-color: #666;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border-radius: 20px;
+  position: relative;
+  color: white;
+  letter-spacing: 4px;
+}
+
+[id^="tiny"]::before {
+  content: '•••';
+}
+
+[id^="foot"] {
+  display: none;
+  background-color: white;
+  border: 1px solid #333;
+  padding: 10px;
+  max-width: 200px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  margin-top: 5px;
+}
