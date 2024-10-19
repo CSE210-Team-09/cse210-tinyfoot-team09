@@ -34,21 +34,21 @@
 
 ## Completed Tasks
 
-- 
+- Discussed individual implementations for Tinyfoot
+- Combined Tinyfoot implementations into current working version
+- Finalized Littlefoot code review in markdown and upload to repository
+- Completed ADRs for Tinyfoot and upload to repository
+- Uploaded today's meeting notes to repository
 
 ## Tasks to be completed
 
-- Continue to work on ideas for Tinyfoot implementation individually
-- At next meeting: choose implementation that majority of team members want to work on further to act as final Tinyfoot implementation
 - Eventually finalize Tinyfoot implementation
 - Create Github page documenting Tinyfoot implementation
 - Record Tinyfoot demo and upload to repository
 - Finalize Bigfoot code review in markdown and upload to repository
 - Finalize Littlefoot code review in markdown and upload to repository
-- Transcribe meeting notes from Google docs to markdown and upload to repository
 - Record Bigfoot demo and upload to repository
 - Record Littlefoot demo and upload to repository
-- Write out ADRs for Tinyfoot and upload to repository
 - Write out Tinyfoot Github README that provides an overview of the project, provides mentions of its features, links to Tinyfoot demo, and provides a roadmap or indication of things to be done
 - Perform mini-retrospective and document team's thoughts and upload document to repository
 
