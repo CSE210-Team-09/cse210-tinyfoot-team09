@@ -1,28 +1,48 @@
-document.addEventListener('DOMContentLoaded', () => {
-    const footnotes = document.querySelectorAll('sup[id^="fnref:"] a[rel="footnote"]'); // select all the anchor tags that have a rel attribute with a value of footnote and an ID that starts with fnref:
+document.addEventListener('DOMContentLoaded', init);
 
-    footnotes.forEach(footnote => {
-        const footnoteId = footnote.getAttribute('href').slice(1); // removes # from the beginning of the string (ID)
-        const footnoteContent = document.getElementById(footnoteId).querySelector('p').innerHTML; // gets the content of the footnote, which is stored in the paragraph tag's innerHTML
+function getFootnotes() {
+    return document.querySelectorAll('sup[id^="fnref:"] a[rel="footnote"]');
+}
 
-        const popup = document.createElement('span');
-        popup.className = 'footnote-popup';
-        popup.innerHTML = footnoteContent;
+function getFootnoteContent(footnoteId) {
+    return document.getElementById(footnoteId).querySelector('p').innerHTML;
+}
 
-        // Add popup to the sup tag
-        footnote.parentNode.appendChild(popup);
+function createPopup(content) {
+    const popup = document.createElement('span');
+    popup.className = 'footnote-popup';
+    popup.innerHTML = content;
+    popup.style.display = 'none';
+    return popup;
+}
 
+function positionPopup(footnote, popup) {
+    const footnoteRect = footnote.getBoundingClientRect();
+    const popupRect = popup.getBoundingClientRect();
+    popup.style.left = `${(footnoteRect.width / 2) - (popupRect.width / 2)}px`;
+}
 
-        footnote.addEventListener('mouseover', () => {
-            popup.style.display = 'block';
-            // Adjust vertical position to be below the footnote
-            const footnoteRect = footnote.getBoundingClientRect();
-            const popupRect = popup.getBoundingClientRect();
-            popup.style.left = `${(footnoteRect.width / 2) - (popupRect.width / 2)}px`;
-        });
-
-        footnote.addEventListener('mouseout', () => {
-            popup.style.display = 'none';
-        });
+function addEventListeners(footnote, popup) {
+    footnote.addEventListener('mouseover', () => {
+        popup.style.display = 'block';
+        positionPopup(footnote, popup);
     });
-});
+
+    footnote.addEventListener('mouseout', () => {
+        popup.style.display = 'none';
+    });
+}
+
+function setupFootnote(footnote) {
+    const footnoteId = footnote.getAttribute('href').slice(1);
+    const footnoteContent = getFootnoteContent(footnoteId);
+    const popup = createPopup(footnoteContent);
+
+    footnote.parentNode.appendChild(popup);
+    addEventListeners(footnote, popup);
+}
+
+function init() {
+    const footnotes = getFootnotes();
+    footnotes.forEach(setupFootnote);
+}
