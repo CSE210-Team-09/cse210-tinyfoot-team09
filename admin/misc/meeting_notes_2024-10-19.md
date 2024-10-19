@@ -8,7 +8,7 @@
 
 - [ ] Niyas Attasseri (NA)
 - [x] Anna Niu (AN)
-- [ ] Krishna Ponnaganti (KP)
+- [x] Krishna Ponnaganti (KP)
 - [x] Juhak Lee (JL)
 - [x] Brandon Olmos (BO)
 - [x] Jayanth Gorantla (JG)
