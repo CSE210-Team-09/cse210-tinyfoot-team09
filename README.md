@@ -18,9 +18,13 @@ To use the Tiny Note Popup feature, follow the steps below:
    
    Here's an example structure:
    
-   ```html
-   <span>Tiny Footnotes Example <div id="tiny1"></div></span>
+    ```html
+   <span>Tiny Footnotes Example </span> <div id="tiny1"></div>
+   <span>Tiny Footnotes Example2 </span><div id="tiny2"></div>
+
+   <div>Tiny Footnotes Example3</div>
+   <div id="tiny3"></div>
+
    <div id="foot1">This is footnote 1.</div>
-   
-   <span>Tiny Footnotes Example 2 <div id="tiny2"></div></span>
    <div id="foot2">This is footnote 2.</div>
+   <div id="foot3">This is footnote 3.</div>
