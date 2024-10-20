@@ -2,7 +2,7 @@
 
 ## Overview
 
-This JavaScript extecode provides an easy way to add interactive footnotes to your web pages. It detects footnote references in your HTML and creates hover-activated popups for each footnote, improving readability and user experience.
+This JavaScript code provides an easy way to add interactive footnotes to your web pages. It detects footnote references in your HTML and creates hover-activated popups for each footnote, improving readability and user experience.
 
 ## Installation
 
