@@ -64,7 +64,7 @@ If possible, an installation process should be added for PNPM. While having a si
 
 We would replace TypeScript with regular JavaScript. Instead of having TypeScript convert the code into JavaScript, we could directly code the JavaScript. We would lose the type safety advantage of TypeScript, but there will be more control about the JavaScript code in the library, which would avoid the issue of the TypeScript code generating inefficient JavaScript code, and make it more readable for later use.
 
-## Demo 
+## Demo - color change
 
 ### [Video Link](CSE_210_Team_9_Littlefoot_Demo.mp4)
 
