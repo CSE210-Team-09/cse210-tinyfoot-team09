@@ -66,6 +66,6 @@ We would replace TypeScript with regular JavaScript. Instead of having TypeScrip
 
 ## Demo 
 
-### [Video Link](admin/reviews/CSE_210_Team_9_Littlefoot_Demo.mp4)
+### [Video Link](CSE_210_Team_9_Littlefoot_Demo.mp4)
 
 The demo video shows the basic version of little foot loaded in a simple html file. Then a minor color change is made to the button of the footnote is made in the source file. then npm install is run to make the node_module folder. It can be seen that the html page is changed with the color change.
