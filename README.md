@@ -1,25 +1,24 @@
-# CSE210-tinyfoot-TEAM9
+# Project Overview
 
-# TinyFoot: A Footnote Plugin for Markdown
-
-Welcome to the **TinyFoot** project! This repository (`cse210-tinyfoot-team09`) is part of the work by Team 09 for CSE 210. Our goal is to create a simple, easy-to-use plugin that allows seamless footnote integration for Markdown files.
-
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Usage](#usage)
-
-## Project Overview
-
-TinyFoot is a lightweight plugin designed to provide footnote functionality in Markdown. The plugin parses footnote references and displays them in a structured, numbered list at the bottom of the document. The goal is to enhance Markdown files with clear and easy-to-read footnotes.
-
-This project is being developed as part of the CSE 210 course, by **Team 09**.
+The project is a web-based application created using HTML, CSS, and JavaScript. It displays popup footnotes when a user hovers over a particular element or text. This feature helps users understand the content by providing additional information without cluttering the main text. The code structure is organized and minimized according to the requirements, with consideration for users who may not have extensive knowledge of web applications. The goal is to enhance readability and provide a user-friendly way to access supplementary information.
 
 ## Features
 
-- Simple syntax for footnote creation in Markdown.
+- **Interactive Design:** Users can access more information by hovering over an element instead of scrolling down the page each time.
+- **Smooth Transition:** CSS animations are used for hovers and popups to create a more engaging user experience.
+- **Dynamic Loading:** JavaScript is used to dynamically load the page content without needing to refresh after making any modifications.
 
-## Usage
+## Roadmap
 
-[TODO]
+The setup process is designed to be straightforward, even for beginners, to encourage learning and experimentation.
+
+1. **Download the Files:** Download the files directly from the source. 
+2. **File Verification:** After downloading, verify that all the files are in the same folder.
+3. **Link the CSS File:** Replace the CSS file's link in your HTML with the path to the file on your computer:
+   ```html
+   <link rel="stylesheet" href="./source/style/view.css">
+
+
+### [Documentation](docs\documentation.md)
+
+### [Demo video](demo\CSE_210_Team_9_Tinyfoot_Demo.mp4)
