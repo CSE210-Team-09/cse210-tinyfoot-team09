@@ -24,13 +24,13 @@
 - Perform mini-retrospective and document team's thoughts and upload document to repository (NA/BO)
 - Review all documents and writeup (AN)
 - Link repository and demos to Bigfoot and Littlefoot writeups (AN)
-- Continue to complete Issues
+- Complete all Github Issues
 - Merge documentation branch into main
 
 ## Completed Tasks
 
 - Record Bigfoot demo and upload to repository
-- 
+- Record Tinyfoot demo and upload to repository
 
 
 ## Tasks to be completed
