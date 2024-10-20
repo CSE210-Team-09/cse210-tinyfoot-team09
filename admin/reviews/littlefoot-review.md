@@ -1,4 +1,4 @@
-# LittleFoot Code Review
+# Littlefoot Code Review
 
 ## Design Decisions:
 
