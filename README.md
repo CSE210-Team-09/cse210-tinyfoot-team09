@@ -19,6 +19,6 @@ The setup process is designed to be straightforward, even for beginners, to enco
    <link rel="stylesheet" href="./source/style/view.css">
 
 
-### [Documentation](docs\documentation.md)
+### [Documentation](docs/documentation.md)
 
-### [Demo video](demo\CSE_210_Team_9_Tinyfoot_Demo.mp4)
+### [Demo video](demo/CSE_210_Team_9_Tinyfoot_Demo.mp4)
