@@ -63,3 +63,9 @@ In regards to the code, the files should be thoroughly documented, with file hea
 If possible, an installation process should be added for PNPM. While having a single installation process is sufficient, PNPM is a popular package manager and some developers prefer it over Yarn and NPM due to its disk space efficiency. Having an installation process for PNPM users would increase the library’s accessibility as an open-source package.
 
 We would replace TypeScript with regular JavaScript. Instead of having TypeScript convert the code into JavaScript, we could directly code the JavaScript. We would lose the type safety advantage of TypeScript, but there will be more control about the JavaScript code in the library, which would avoid the issue of the TypeScript code generating inefficient JavaScript code, and make it more readable for later use.
+
+## Demo 
+
+### [Video Link](admin/reviews/CSE_210_Team_9_Littlefoot_Demo.mp4)
+
+The demo video shows the basic version of little foot loaded in a simple html file. Then a minor color change is made to the button of the footnote is made in the source file. then npm install is run to make the node_module folder. It can be seen that the html page is changed with the color change.
