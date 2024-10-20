@@ -1,7 +1,7 @@
 # Team Meeting Notes - Warmup Exercise Team Work Session
 
 **Date: Saturday 10.19.2024**\
-**Time: 1:00 pm - __:__ pm**\
+**Time: 1:00 pm - 5:00 pm**\
 **Meeting Format: In-Person (CSE Basement)**
 
 ## Attendance
@@ -23,14 +23,11 @@
 - Record Bigfoot demo and upload to repository
 - Record Littlefoot demo and upload to repository
 - Complete ADRs for Tinyfoot and upload to repository
-- ? Finalize Tinyfoot implementation
-- ? Make sure Tinyfoot well commented
-- ? Create Github page documenting Tinyfoot implementation
-- ? Record Tinyfoot demo and upload to repository
-- ? Write out Tinyfoot Github README that provides an overview of the project, provides mentions of its features, links to Tinyfoot demo, and provides a roadmap or indication of things to be done
-- ? Perform mini-retrospective and document team's thoughts and upload document to repository
+- Finalize Tinyfoot implementation
+- Make sure Tinyfoot well commented
 - Upload today's meeting notes to repository
-- ? Submit to gradescope
+- Create Issues and assign commits in Github
+- Make pull requests in Github
 
 ## Completed Tasks
 
@@ -39,18 +36,25 @@
 - Finalized Littlefoot code review in markdown and upload to repository
 - Completed ADRs for Tinyfoot and upload to repository
 - Uploaded today's meeting notes to repository
+- Finalized Tinyfoot implementation
+- Record Littlefoot demo and upload to repository
+- Tinyfoot well commented
+- Created Issues and assigned commits in Github
+- Merge Tinyfoot code into main branch
+
 
 ## Tasks to be completed
 
-- Eventually finalize Tinyfoot implementation
 - Create Github page documenting Tinyfoot implementation
 - Record Tinyfoot demo and upload to repository
-- Finalize Bigfoot code review in markdown and upload to repository
-- Finalize Littlefoot code review in markdown and upload to repository
-- Record Bigfoot demo and upload to repository
-- Record Littlefoot demo and upload to repository
+- Finalize Bigfoot code review in markdown and upload to repository (JG/AN)
+- Record Bigfoot demo and upload to repository (LL)
 - Write out Tinyfoot Github README that provides an overview of the project, provides mentions of its features, links to Tinyfoot demo, and provides a roadmap or indication of things to be done
-- Perform mini-retrospective and document team's thoughts and upload document to repository
+- Perform mini-retrospective and document team's thoughts and upload document to repository (Next meeting)
+- Review all documents and writeup (Next meeting)
+- Link repository and demos to Bigfoot and Littlefoot writeups (AN)
+- Continue to complete Issues (Next meeting)
+- Merge documentation branch into main (Next meeting)
 
 ## Warmup Timeline
 
@@ -67,4 +71,4 @@
 
 ## Planned meetings
 
-- Sunday 20th Oct ??
+- Sunday 20th Oct 3PM Online
