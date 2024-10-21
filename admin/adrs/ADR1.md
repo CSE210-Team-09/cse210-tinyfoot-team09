@@ -3,6 +3,7 @@
 ## Context and Problem Statement
 
 For Tinyfoot, we are asked to implement a program with similar functionality as Bigfoot and Littlefoot, and are told that we can either start from a blank repository or fork either Bigfoot or Littlefoot and make extensive changes.
+
 - Would it be better to start from scratch or fork Bigfoot/Littlefoot and change the implementations to better constrain its focus given that we are told Tinyfoot should be more "tight" and "focused" than the complex Bigfoot/Littlefoot implementations?
 - What are the implications of each approach on the development process and the final product?
 
@@ -14,4 +15,4 @@ For Tinyfoot, we are asked to implement a program with similar functionality as 
 
 ## Decision Outcome
 
-We decided to implement Tinyfoot by starting fresh on a blank repository. Given how the assignment instructions emphasized code minimalism, and a tight focus on implementing footnote functionality rather than the complexities that Bigfoot and Littlefoot also delve into, we decided it would be a better idea to start Tinyfoot from scratch rather than further bloat Bigfoot or Tinyfoot.
+We decided to implement Tinyfoot by starting fresh on a blank repository. Given how the assignment instructions emphasized code minimalism, and a tight focus on implementing footnote functionality rather than the complexities that Bigfoot and Littlefoot delve into, we decided it would be a better idea to start Tinyfoot from scratch rather than further bloat Bigfoot or Tinyfoot.
