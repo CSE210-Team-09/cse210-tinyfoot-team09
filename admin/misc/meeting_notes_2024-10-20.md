@@ -65,4 +65,4 @@
 
 ## Planned meetings
 
-- None
+- Wednesday 23rd Oct 6:30PM In-Person

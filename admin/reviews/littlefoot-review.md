@@ -2,7 +2,7 @@
 
 ## Design Decisions:
 
-The Littlefoot repository contains a CHANGELOG.md file with details on the differences between it and Bigfoot, as well as notes on changes, bug fixes and additions. This is useful for developers who are familiar with Bigfoot and would like to learn about what Littlefoot offers in terms of features. This document also mentions that the author decided to follow a “decision, not options” philosophy when developing Littlefoot, giving emphasis to simplicity in use over adding extra features. Notably, the settings.ts file provide a variety of options that user can override according to their needs, such as activateDelay (to indicate the delay before the footnote is activated) and dismissOnUnhover (which determines whether the footnote automatically closes when the mouse is moved away from it).
+The Littlefoot repository contains a CHANGELOG.md file with details on the differences between it and Bigfoot, as well as notes on the changes, bug fixes and additions. This is useful for developers who are familiar with Bigfoot and would like to learn about what Littlefoot offers in terms of features. This document also mentions that the author decided to follow a “decision, not options” philosophy when developing Littlefoot, giving emphasis to simplicity in use over adding extra features. Notably, the settings.ts file provides a variety of options that the user can override according to their needs, such as activateDelay (to indicate the delay before the footnote is activated) and dismissOnUnhover (which determines whether the footnote automatically closes when the mouse is moved away from it).
 
 Additionally, while Bigfoot relies on JavaScript and JQuery, Littlefoot utilizes TypeScript for its code, which provides stronger type checking and makes the code more stable and reliable. The tsconfig.json file in the repository helps control how the TypeScript files are converted to JavaScript, allowing the package to work smoothly across different environments. However, it is worth noting that the tsconfig.json file only converts the files found in the src folder.
 
@@ -69,3 +69,5 @@ We would replace TypeScript with regular JavaScript. Instead of having TypeScrip
 The demo video shows the basic version of little foot loaded in a simple html file. Then a minor color change is made to the button of the footnote is made in the source file. then npm install is run to make the node_module folder. It can be seen that the html page is changed with the color change.
 
 ### [Repo Link](https://github.com/CSE210-Team-09/littlefoot)
+
+The above link goes to the Github repository where we made our small change to Littlefoot for part 2 of the warmup, that can be seen reflected in the demo video.
