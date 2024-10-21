@@ -18,6 +18,9 @@ The setup process is designed to be straightforward, even for beginners, to enco
    ```html
    <link rel="stylesheet" href="./source/style/view.css">
 
+4. **Link the JS File:** Replace the link of the JavaScript file with the one in your system.
+    ```html
+    <script src="./source/js/footnotes.js"></script>
 
 ### [Documentation](docs/documentation.md)
 
