@@ -1,7 +1,7 @@
 # Team Meeting Notes - Warmup Exercise Team Work Session
 
 **Date: Sunday 10.20.2024**\
-**Time: 3:00 pm - _:00 pm**\
+**Time: 3:00 pm - 6:00 pm**\
 **Meeting Format: Online (Zoom)**
 
 ## Attendance
@@ -11,7 +11,7 @@
 - [x] Krishna Ponnaganti (KP)
 - [x] Juhak Lee (JL)
 - [x] Brandon Olmos (BO)
-- [ ] Jayanth Gorantla (JG)
+- [x] Jayanth Gorantla (JG)
 - [x] Lucas Lee (LL)
 
 ## Agenda
@@ -31,6 +31,16 @@
 
 - Record Bigfoot demo and upload to repository
 - Record Tinyfoot demo and upload to repository
+- Finalize Bigfoot code review in markdown and upload to repository
+- Write out Tinyfoot Github README that provides an overview of the project, provides mentions of its features
+- Perform mini-retrospective and document team's thoughts and upload document to repository
+- Review all documents and writeup
+- Link repository and demos to Bigfoot and Littlefoot writeups
+- Complete all Github Issues
+- Merge documentation branch into main
+- Create Github page documenting Tinyfoot implementation
+- Final review of repo and edits
+- Gradescope Submission
 
 
 ## Tasks to be completed
@@ -51,6 +61,7 @@
 - Complete Github README: 20th Oct
 - Mini-retrospective: 20th Oct
 - Review all documents and writeup: 20th Oct
+- Submission to gradescope: 20th Oct
 
 ## Planned meetings
 
