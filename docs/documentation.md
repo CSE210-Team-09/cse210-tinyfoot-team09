@@ -2,7 +2,7 @@
 
 ## Overview
 
-This JavaScript code provides an easy way to add interactive footnotes to your web pages. It detects footnote references in your HTML and creates hover-activated popups for each footnote, improving readability and user experience.
+This JavaScript code provides an easy way to add interactive footnotes to your web pages. It detects footnote references in your HTML file and creates hover-activated popups for each footnote, improving readability and user experience.
 
 ## Installation
 
@@ -20,7 +20,8 @@ This JavaScript code provides an easy way to add interactive footnotes to your w
 
 ### HTML Structure
 
-Your HTML should follow this structure for footnotes:
+Your HTML should follow the below structure for footnotes:
+
 ## HTML Structure for Footnotes
 
 ### 1. Footnote References in the Main Text
@@ -31,7 +32,7 @@ Your HTML should follow this structure for footnotes:
 
 The Footnote References are determined by a `sup` tag with an `id` that begins with `fnref:` followed by a number, and a class name `tiny`. Inside the `sup` tag, there must be an `a` tag with `rel="footnote"` to denote which Footnote Content to link to. The `a` tag should link to another element in the DOM using a fragment identifier.
 
-Breakdown of elements and attributes, all of which are required:
+Here is a breakdown of the elements and attributes, all of which are required:
 
 - `<sup>`: Superscript element. It renders text slightly above the normal line and in a smaller font.
 - `id="fnref:1"`: A unique identifier for the footnote reference. The format is "fnref:" followed by a number.
@@ -134,3 +135,8 @@ function get_footnote_content(footnote_id) {
     return `<h4>Footnote</h4>${content}`;  // Add a header to each popup
 }
 ```
+## Demo Video
+
+### [Video Link](CSE_210_Team_9_Tinyfoot_Demo.mp4)
+
+The above demo video demonstrates the functionality of this Tinyfoot implementation using a simple example HTML file.
