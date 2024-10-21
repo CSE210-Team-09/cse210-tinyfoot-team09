@@ -18,7 +18,7 @@ In terms of how the project should be developed, such as structure of Github rep
 | 4    | Designer | Brandon Olmos     | I am very good at writing documentation and providing ideas for the project’s design. | Very little coding experience in HTML/CSS/JavaScript, which limited my contribution during the development stage of Tinyfoot. |
 | 5    | Member   | Krishna Ponnaganti| I am good at writing documentation and also have a basic knowledge of HTML and CSS. I was involved in the code discussion and completed a few documents. | As I have zero knowledge of JavaScript, I was not able to contribute fully to the design. I was also not good at sharing my opinions as I was hesitant. |
 | 6    | Member   | Juhak Lee         | I have basic knowledge of HTML and CSS, which allowed me to contribute during the development stage. | I was not very good at documentation, which made it difficult for my teammates to fully understand my work. |
-| 7    | Member   | Lucas Lee         | Have previous experiences with software development practices and provided thoughts on how the development of Tinyfoot can be approached | I struggle with honestly communicating my thoughts on level of quality and focus on process that I think should’ve been done |
+| 7    | Member   | Lucas Lee         | Have previous experiences with software development practices and provided thoughts on how the development of Tinyfoot can be approached | I struggle with honestly communicating my thoughts on level of quality and focus on process that I think should’ve been done. |
 
 # Strengths and Weaknesses of the Team’s Operation
 
@@ -31,7 +31,7 @@ In terms of how the project should be developed, such as structure of Github rep
 **Weaknesses**
 
 - Early on, we relied on Zoom for the first few meetings, which negatively affected our pacing with the Tinyfoot project.
-- Asynchronous work, while useful in completing smaller task, was detrimental in our ability to complete major parts of the project.
+- Asynchronous work, while useful in completing smaller tasks, was detrimental in our ability to complete major parts of the project.
 - Operating systems were different among team members, with some using Windows machines while others owned MacOS computers. As a result, the setup process was different for the different tools that we looked into throughout the project, such as the Littlefoot library.
 
 # What Should Be Done Going Forward
