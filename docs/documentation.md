@@ -72,8 +72,8 @@ Breakdown of elements and attributes:
 
 Required parts are marked with (REQUIRED)
 
-
-
+### Example
+An example usage is available [here](/index.html)
 
 ## Customization
 
