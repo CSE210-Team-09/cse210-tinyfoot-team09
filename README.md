@@ -1,1 +1,31 @@
-# cse210-tinyfoot-team9
+# Project Overview
+
+The project is a web-based application created using HTML, CSS, and JavaScript. It displays popup footnotes when a user hovers over a supserscript tag. This feature helps users understand the content by providing additional information without cluttering the main text. The code structure is organized and well documented, with consideration for users who may not have extensive knowledge of web applications. The goal is to provide users with an easy way to have hoverable footnotes that is easily modifiable. 
+
+## Features
+
+- **Interactive Footnotes:** Users can access more information by hovering over an element instead of scrolling down the page each time.
+
+
+## Installation
+1. Include the JavaScript file in your HTML:
+   ```html
+   <script src="./source/js/footnotes.js"></script>
+   ```
+
+2. Include the CSS file in your HTML:
+   ```html
+   <link rel="stylesheet" href="./source/style/view.css">
+   ```
+
+
+## Roadmap
+- Making CSS more customizable by having a file with constants
+- Introduce config file so multiple behaviors are easily swapped (on-hover vs on-click)
+- Introducing unit tests
+- Potential of turning script to node module
+
+### [Documentation](docs/documentation.md)
+
+
+### [Demo video](demo/CSE_210_Team_9_Tinyfoot_Demo.mp4)
