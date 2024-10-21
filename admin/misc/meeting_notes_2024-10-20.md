@@ -1,7 +1,7 @@
 # Team Meeting Notes - Warmup Exercise Team Work Session
 
 **Date: Sunday 10.20.2024**\
-**Time: 3:00 pm - 6:00 pm**\
+**Time: 3:00 pm - 7:00 pm**\
 **Meeting Format: Online (Zoom)**
 
 ## Attendance
@@ -65,4 +65,4 @@
 
 ## Planned meetings
 
-- None
+- Wednesday 23rd Oct 6:30PM In-Person

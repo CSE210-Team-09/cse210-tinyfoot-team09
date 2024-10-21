@@ -26,5 +26,8 @@ The project is a web-based application created using HTML, CSS, and JavaScript. 
 
 ### [Documentation](docs/documentation.md)
 
+The above link directs to the Github page documenting this Tinyfoot implementation
 
-### [Demo video](demo/CSE_210_Team_9_Tinyfoot_Demo.mp4)
+### [Demo Video](demo/CSE_210_Team_9_Tinyfoot_Demo.mp4)
+
+The above link directs to the demo video demonstrating the functionality of this Tinyfoot implementation for a simple example HTML file.
