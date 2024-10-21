@@ -1,27 +1,31 @@
 # Project Overview
 
-The project is a web-based application created using HTML, CSS, and JavaScript. It displays popup footnotes when a user hovers over a particular element or text. This feature helps users understand the content by providing additional information without cluttering the main text. The code structure is organized and minimized according to the requirements, with consideration for users who may not have extensive knowledge of web applications. The goal is to enhance readability and provide a user-friendly way to access supplementary information.
+The project is a web-based application created using HTML, CSS, and JavaScript. It displays popup footnotes when a user hovers over a supserscript tag. This feature helps users understand the content by providing additional information without cluttering the main text. The code structure is organized and well documented, with consideration for users who may not have extensive knowledge of web applications. The goal is to provide users with an easy way to have hoverable footnotes that is easily modifiable. 
 
 ## Features
 
-- **Interactive Design:** Users can access more information by hovering over an element instead of scrolling down the page each time.
-- **Smooth Transition:** CSS animations are used for hovers and popups to create a more engaging user experience.
-- **Dynamic Loading:** JavaScript is used to dynamically load the page content without needing to refresh after making any modifications.
+- **Interactive Footnotes:** Users can access more information by hovering over an element instead of scrolling down the page each time.
 
-## Roadmap
 
-The setup process is designed to be straightforward, even for beginners, to encourage learning and experimentation.
+## Installation
+1. Include the JavaScript file in your HTML:
+   ```html
+   <script src="./source/js/footnotes.js"></script>
+   ```
 
-1. **Download the Files:** Download the files directly from the source. 
-2. **File Verification:** After downloading, verify that all the files are in the same folder.
-3. **Link the CSS File:** Replace the CSS file's link in your HTML with the path to the file on your computer:
+2. Include the CSS file in your HTML:
    ```html
    <link rel="stylesheet" href="./source/style/view.css">
+   ```
 
-4. **Link the JS File:** Replace the link of the JavaScript file with the one in your system.
-    ```html
-    <script src="./source/js/footnotes.js"></script>
+
+## Roadmap
+- Making CSS more customizable by having a file with constants
+- Introduce config file so multiple behaviors are easily swapped (on-hover vs on-click)
+- Introducing unit tests
+- Potential of turning script to node module
 
 ### [Documentation](docs/documentation.md)
+
 
 ### [Demo video](demo/CSE_210_Team_9_Tinyfoot_Demo.mp4)
