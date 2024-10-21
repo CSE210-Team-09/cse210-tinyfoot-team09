@@ -18,7 +18,6 @@ The .github/workflows folder contains two CI workflows. The first is a codeql-ac
 
 Overall, the code is well structured, with each file containing no more than a few hundred lines. This makes the code easier to read for a user who wants to understand how Littlefoot works.
 
-
 ## Repository Organization and Quality:
 
 The repository contains a README.md file with an overview of how to install and utilize the library, as well as configure basic options. This README file discusses various methods one can use apart from those used in the code, which is useful information to help the user understand the package, allowing them to better experiment with the available methods.
@@ -37,8 +36,7 @@ The second package manager, Yarn, is an alternative to NPM, but the README repea
 
 Overall, the README provides sufficient options to set up Littlefoot. Both NPM and Yarn are easy to work with once installed, reducing the installation process to a single command line. However, the instructions could have been clearer in regard to which folder the command should be run in, and it could have also provided install instructions with PNPM, another package manager that is popular for its disk space efficiency, effective dependency resolution, and runtime speed.
 
-
-## Tooling Challenges:
+## Other Relevant Information - Tooling Challenges:
 
 The NPM-based installation does not work very well with windows machines. The NPM install for updates had issues, causing an error code to trigger. This issue was not because of NPM itself, but rather because of folder referencing, which does not take into account differences in different operating systems. Furthermore, the NPM version was not provided, making it challenging to determine which version should be installed. 
 
@@ -54,7 +52,7 @@ Finally, the source code for Littlefoot is not properly commented. This might be
 
 If we needed a library to provide footnotes in our site, we would use Littlefoot because of its simplicity in set up and use. The codebase contains CI workflows to ensure that the code quality is maintained, and the codebase has been updated frequently over a long period of time. This makes the tool more dependable and useful in a project.
 
-## What changes would you suggest based on your pain points to improve the littlefoot?
+## What changes would you suggest based on your pain points to improve the Littlefoot?
 
 The README contains useful information, but the usage section with Yarn and NPM could be expanded upon, providing more specific language in how to use the library as well as extra details to get Littlefoot installed. More information should be added for Windows, specifying the differences in referencing to make sure Littlefoot runs as expected. Furthermore, an HTML demo file should be included in the repository to be used to verify that Littlefoot works as expected.
 
