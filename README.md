@@ -1,6 +1,5 @@
 # Project Overview
-
-The project is a web-based application created using HTML, CSS, and JavaScript. It displays popup footnotes when a user hovers over a supserscript tag. This feature helps users understand the content by providing additional information without cluttering the main text. The code structure is organized and well documented, with consideration for users who may not have extensive knowledge of web applications. The goal is to provide users with an easy way to have hoverable footnotes that is easily modifiable. 
+The project is a web-based application created using HTML, CSS, and JavaScript. It displays popup footnotes when a user hovers over a supserscript tag. This feature helps users understand the content by providing additional information without cluttering the main text. The code structure is organized and well documented, with consideration for users who may not have extensive knowledge of web applications. The goal is to provide users with an easy way to have hoverable footnotes that is easily modifiable.
 
 ## Features
 
@@ -17,7 +16,7 @@ The project is a web-based application created using HTML, CSS, and JavaScript. 
    ```html
    <link rel="stylesheet" href="./source/style/view.css">
    ```
-
+ An example of usage is available [here](/index.html)
 
 ## Roadmap
 - Making CSS more customizable by having a file with constants
